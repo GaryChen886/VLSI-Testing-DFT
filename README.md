@@ -49,7 +49,8 @@ The required command format is as follows:
 #### Input:
 `./atpg -path -start G3 -end PO_G16 c17.bench`
 #### Output:
+'''
 G3 net17 G16 PO_G16<br>
 G3 net14 net18 G16 PO_G16<br>
 The paths from G3 to PO_G16: 2<br>
-
+'''
